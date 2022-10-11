@@ -1,0 +1,15 @@
+{
+    "name": "alina/oopexam",
+    "autoload": {
+        "psr-4": {
+            "Alina\\Oopexam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alina Kovyrialova",
+            "email": "email@email.com"
+        }
+    ],
+    "require": {}
+}
